@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gufelix&label=Profile%20views&color=0e75b6&style=flat" alt="gufelix" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [gufelix.site](gufelix.site)
-
-- 📫 How to reach me **gu2003fr@outlook.com**
-
-- 📄 Know about my experiences [gufelix.site](gufelix.site)
-
-- ⚡ Fun fact **Hobbies:Play videogame, watch films and series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
