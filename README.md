@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfr2003&label=Profile%20views&color=0e75b6&style=flat" alt="gfr2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfr2003" alt="gfr2003" /></a> </p>
-
 - 🔭 I’m currently working on [Grupo Safira](https://github.com/safiradigital)
 
 - 🌱 I’m currently learning **React and MSSQL**
