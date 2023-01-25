@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://gustavo-tech.web.app/](https://gustavo-tech.web.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/gufelix/](https://www.linkedin.com/in/gufelix/)
-
 - 💬 Ask me about **Angular, Ionic, Node and Firebase**
 
 - 📫 How to reach me **gustavo.felix.dev@outlook.com**
