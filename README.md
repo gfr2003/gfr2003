@@ -27,6 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfr2003&show_icons=true&locale=en&layout=compact" alt="gfr2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfr2003&show_icons=true&locale=en" alt="gfr2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfr2003&" alt="gfr2003" /></p>
-
