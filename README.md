@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, Ionic, Node and Firebase**
 
-- 📫 How to reach me **gustavo.felix.dev@outlook.com**
+- 📫 How to reach me **gustavo.felixr@outlook.com**
 
 - ⚡ Fun fact **Like play video-games and watch movies and series**
 
