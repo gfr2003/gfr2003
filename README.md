@@ -4,17 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfr2003&label=Profile%20views&color=0e75b6&style=flat" alt="gfr2003" /> </p>
 
 - 🔭 I’m currently working on [Grupo Safira](https://github.com/safiradigital)
-
-- 🌱 I’m currently learning **React and MSSQL**
-
 - 👨‍💻 All of my projects are available at [https://gustavo-tech.web.app/](https://gustavo-tech.web.app/)
-
-- 💬 Ask me about **Angular, Ionic, Node and Firebase**
-
 - 📫 How to reach me **gustavo.felixr@outlook.com**
-
-- ⚡ Fun fact **Like play video-games and watch movies and series**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gufelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gufelix" height="30" width="40" /></a>
