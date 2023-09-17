@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfr2003&show_icons=true&locale=en&layout=compact" alt="gfr2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfr2003&show_icons=true&locale=en" alt="gfr2003" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfr2003&theme=dark&show_icons=true)
