@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">FullStack Developer since 2020</h3>
+<h3 align="center">FullStack Developer since 2019</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfr2003&label=Profile%20views&color=0e75b6&style=flat" alt="gfr2003" /> </p>
 
