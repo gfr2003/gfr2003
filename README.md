@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Grupo Safira](https://github.com/safiradigital)
 - 👨‍💻 All of my projects are available at [https://gustavo-tech.web.app/](https://gustavo-tech.web.app/)
 - 📫 How to reach me **gustavo.felixr@outlook.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/gufelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gufelix" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gu2003fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gu2003fr" height="30" width="40" /></a>
