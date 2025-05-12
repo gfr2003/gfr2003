@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfr2003&label=Profile%20views&color=0e75b6&style=flat" alt="gfr2003" /> </p>
 
-- 🔭 I’m currently working on [BTGPactual](https://github.com/BTGPactual)
+- 🔭 I’m currently working on [BTG Pactual](https://github.com/BTGPactual)
 - 👨‍💻 All of my projects are available at [https://gustavo-tech.web.app/](https://gustavo-tech.web.app/)
 - 📫 How to reach me **gustavo.felixr@outlook.com**
 <h3 align="left">Connect with me: </h3>
